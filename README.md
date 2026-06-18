@@ -1,6 +1,6 @@
 # CANFD Loopback Test – STM32G474
 
-A bare-metal FDCAN internal loopback test for the **STM32G474** microcontroller, built with STM32CubeIDE and the HAL library. The firmware transmits a CAN FD frame and immediately receives it back through the internal loopback path, verifying that the FDCAN peripheral is working correctly.
+A FDCAN internal loopback test for the **STM32G474** microcontroller, built with STM32CubeIDE and the HAL library. The firmware transmits a CAN FD frame and immediately receives it back through the internal loopback path, verifying that the FDCAN peripheral is working correctly.
 
 ---
 
